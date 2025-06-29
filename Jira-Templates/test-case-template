@@ -1,0 +1,70 @@
+# Test Case Template
+
+Use this template to write clear, repeatable, and meaningful test cases.
+
+---
+
+## Test Case ID
+_Unique identifier (e.g., TC_UI_001)_
+
+---
+
+## Test Title
+_What is being tested? (e.g., "Verify Login with Valid Credentials")_
+
+---
+
+## Description
+_Short explanation of what this test covers and why it's important._
+
+---
+
+## Preconditions
+_What needs to be true or done before the test can run? (e.g., user account created, app installed)_
+
+---
+
+## Test Steps
+
+1.  
+2.  
+3.  
+4.  
+
+---
+
+## Expected Result
+_Describe what should happen after executing the steps._
+
+---
+
+## Actual Result
+_Only filled in after execution — describe the actual outcome._
+
+---
+
+## Test Data
+_Include any inputs (e.g., usernames, passwords, search terms)_
+
+---
+
+## Reproducibility
+- [ ] Always
+- [ ] Sometimes
+- [ ] Rare
+- [ ] Cannot Reproduce
+
+---
+
+## Environment
+
+- **Device/Platform:**  
+- **OS Version:**  
+- **App/Web Version:**  
+- **Build Number:**  
+- **Network Conditions:** (Wi-Fi, 5G, offline, etc.)
+
+---
+
+## Notes
+_Optional section for additional information, screenshots, or test case links._
